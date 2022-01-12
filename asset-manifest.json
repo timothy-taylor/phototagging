@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/odin_phototaggin_react/static/css/main.f09a80e1.css",
+    "main.js": "/odin_phototaggin_react/static/js/main.63aef09f.js",
+    "static/js/787.8a261c64.chunk.js": "/odin_phototaggin_react/static/js/787.8a261c64.chunk.js",
+    "static/media/pexels-marta-dzedyshko-2067569.jpeg": "/odin_phototaggin_react/static/media/pexels-marta-dzedyshko-2067569.44b17bfe1fcdec30b01f.jpeg",
+    "index.html": "/odin_phototaggin_react/index.html",
+    "main.f09a80e1.css.map": "/odin_phototaggin_react/static/css/main.f09a80e1.css.map",
+    "main.63aef09f.js.map": "/odin_phototaggin_react/static/js/main.63aef09f.js.map",
+    "787.8a261c64.chunk.js.map": "/odin_phototaggin_react/static/js/787.8a261c64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f09a80e1.css",
+    "static/js/main.63aef09f.js"
+  ]
+}
